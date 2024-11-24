@@ -3,8 +3,8 @@
 ## Project Overview
 
 ## Team Members & Contribution Summary
-- Karan Kumar - Design Document, Bug Fixes, Cleanup, some parts of vector
-- Rounak Dey - Matrix and related tasks, some parts of vector
+- Karan Kumar - Design Document, parallel_for()
+- Rounak Dey - thread1D(), thread2d()
 
 ## File Descriptions
 - `.gitignore`: Specifies files and directories to be ignored by Git.
